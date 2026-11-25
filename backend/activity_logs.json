@@ -1,0 +1,79 @@
+[
+    {
+        "contract_id": "Voting001",
+        "activity": "Verification",
+        "result": "VERIFIED",
+        "message": "Contract integrity verified successfully",
+        "timestamp": "2026-11-18 15:30:26"
+    },
+    {
+        "contract_id": "Voting001",
+        "activity": "Registration",
+        "result": "REGISTERED",
+        "message": "Contract registered successfully on blockchain",
+        "timestamp": "2026-11-18 15:30:12"
+    },
+    {
+        "contract_id": "Crowdfunding001",
+        "activity": "Verification",
+        "result": "VERIFIED",
+        "message": "Contract integrity verified successfully",
+        "timestamp": "2026-11-18 15:29:38"
+    },
+    {
+        "contract_id": "Crowdfunding001",
+        "activity": "Registration",
+        "result": "REGISTERED",
+        "message": "Contract registered successfully on blockchain",
+        "timestamp": "2026-11-18 15:29:25"
+    },
+    {
+        "contract_id": "TestContract001",
+        "activity": "Verification",
+        "result": "TAMPERED",
+        "message": "Contract has been modified",
+        "timestamp": "2026-11-17 21:20:40"
+    },
+    {
+        "contract_id": "SmartGuardTest002",
+        "activity": "Verification",
+        "result": "VERIFIED",
+        "message": "Contract integrity verified successfully",
+        "timestamp": "2026-11-17 21:18:28"
+    },
+    {
+        "contract_id": "SmartGuardTest002",
+        "activity": "Verification",
+        "result": "VERIFIED",
+        "message": "Contract integrity verified successfully",
+        "timestamp": "2026-11-17 18:15:22"
+    },
+    {
+        "contract_id": "SmartGuardTest002",
+        "activity": "Verification",
+        "result": "VERIFIED",
+        "message": "Contract integrity verified successfully",
+        "timestamp": "2026-11-17 18:14:07"
+    },
+    {
+        "contract_id": "SmartGuardTest002",
+        "activity": "Verification",
+        "result": "VERIFIED",
+        "message": "Contract integrity verified successfully",
+        "timestamp": "2026-11-17 18:13:48"
+    },
+    {
+        "contract_id": "SmartGuardTest002",
+        "activity": "Verification",
+        "result": "VERIFIED",
+        "message": "Contract integrity verified successfully",
+        "timestamp": "2026-11-17 18:10:25"
+    },
+    {
+        "contract_id": "SmartGuardTest002",
+        "activity": "Registration",
+        "result": "REGISTERED",
+        "message": "Contract registered successfully on blockchain",
+        "timestamp": "2026-11-17 18:10:11"
+    }
+]

@@ -1,0 +1,44 @@
+# Environment variables (keep secrets and private keys out of version control)
+.env
+**/.env
+.env.local
+**/.env.local
+
+# Node dependencies & builds
+node_modules/
+**/node_modules/
+frontend/dist/
+dist/
+dist-ssr/
+
+# Hardhat build artifacts & cache
+blockchain/cache/
+blockchain/artifacts/
+blockchain/typechain/
+blockchain/typechain-types/
+blockchain/coverage/
+blockchain/coverage.json
+blockchain/ignition/deployments/
+
+# Python environments & cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.sw?
